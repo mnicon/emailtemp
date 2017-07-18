@@ -1,0 +1,23 @@
+
+img{
+	width: 100%; /* all image gulo 100% kore dewar jonn width100% kora hoyche; kintu img  ta . diee start hoylo na keno bujlam na */
+}
+.content {
+	padding: 10px;
+
+}
+
+.tittle{
+	padding: 10px;
+	color: grey;
+}
+.pera{
+	padding: 10px;
+	text-align: justify;
+	font-size: 18px;
+}
+.footer{
+	text-align: center;
+	color: white;
+	background: #ff0000;
+}
